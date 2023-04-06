@@ -1,2 +1,25 @@
 # for .DS_Store file
 .DS_Store
+
+# CMake
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+/ALL_BUILD.vcxproj
+/ALL_BUILD.vcxproj.filters
+/ALL_BUILD.vcxproj.user
+/ZERO_CHECK.vcxproj
+/ZERO_CHECK.vcxproj.filters
+/ZERO_CHECK.vcxproj.user
+
+# Visual Studio
+.vs
+t.dir
+Debug
+x64
+
+# CMake(Visual Studio Solution)
+/t.vcxproj
+/t.vcxproj.filters
+/t.vcxproj.user
+/trinity.sln
