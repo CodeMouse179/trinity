@@ -5,6 +5,7 @@
 CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
+Makefile
 /ALL_BUILD.vcxproj
 /ALL_BUILD.vcxproj.filters
 /ALL_BUILD.vcxproj.user
@@ -23,3 +24,6 @@ x64
 /t.vcxproj.filters
 /t.vcxproj.user
 /trinity.sln
+
+# CMake(UNIX)
+/t
